@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/679ce856-7547-40e7-a5c5-fa6a84250b26)
+![image](https://github.com/user-attachments/assets/ea6a4109-42b8-4913-b2a6-0b5a1000b757)
+![image](https://github.com/user-attachments/assets/6531eef2-a12b-49f7-856f-76041986e71c)
+
 # 🎮 Project_1_Game
 
 [![Unity](https://img.shields.io/badge/Unity-5c5c5c?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
